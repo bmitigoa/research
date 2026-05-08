@@ -29,10 +29,6 @@ The research focuses on combining Machine Learning (ML) and Augmented Reality (A
 - Android (Kotlin)
 - ARCore
 
-## Research Document
-
-📄 [View Dissertation](research/Nairobi_Rental_AI_AR_Dissertation.pdf)
-
 ## Author
 
 Baraka Mitigoa
